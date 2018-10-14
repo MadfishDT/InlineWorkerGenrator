@@ -1,0 +1,6 @@
+class MiniFier
+{
+    constructor() {
+
+    }
+}
